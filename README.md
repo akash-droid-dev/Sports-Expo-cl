@@ -2,7 +2,7 @@
 
 GoBananas internal strategy for the sports conclave / expo under RFP clause 18 (m) of the BRICS Traditional & Indigenous Sports 2026 tender (Sports Authority of Gujarat).
 
-**Live page:** https://akash-droid-dev.github.io/sports-expo-cl/
+**Live page:** https://akash-droid-dev.github.io/Sports-Expo-cl/
 
 What the page covers:
 
